@@ -169,7 +169,7 @@ App available at: `http://localhost:5173`
 
 ## How I Built This With AI
 
-This project was built entirely using **Cursor** with Claude as the AI pair programmer. Here is an honest account of the methodology, what worked well, and where human judgement was needed.
+This project was built primarily using **Cursor** with Claude as the AI pair programmer. Here is an honest account of the methodology, what worked well, and where human judgement was needed.
 
 ### Prompting Methodology
 

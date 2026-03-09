@@ -6,6 +6,13 @@ Paste a URL, and the app fetches the page, extracts its content, and sends it to
 
 ---
 
+## Live Demo
+
+- App (Vercel): [https://aeo-analyzer-psi.vercel.app](https://aeo-analyzer-psi.vercel.app)
+- API Health (Railway): [https://aeoanalyzer-production.up.railway.app/health](https://aeoanalyzer-production.up.railway.app/health)
+
+---
+
 ## What It Does
 
 Traditional SEO focuses on ranking in search results. AEO focuses on something newer: getting your content **selected as a source** by AI systems that generate direct answers. This tool audits a page across six dimensions that AI answer engines care about most:
